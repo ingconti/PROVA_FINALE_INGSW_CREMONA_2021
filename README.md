@@ -12,7 +12,15 @@ webex: https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=e9b2d0
 
 slide: 
 
+https://github.com/ingconti/PROVA_FINALE_INGSW_CREMONA_2021/blob/main/esercitazione1_baresi_ingsw_JUNIT.key.pdf
 
+some (trivial..) code:
+
+https://github.com/ingconti/JavaTestingAndExceptionVeryBasicSample
+
+https://github.com/ingconti/JUnitIntro
+
+https://github.com/ingconti/FactorialTest/blob/master/README.md
 
 ### aula webex:
 
