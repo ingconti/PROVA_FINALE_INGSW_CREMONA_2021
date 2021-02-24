@@ -20,6 +20,8 @@ https://github.com/ingconti/JavaTestingAndExceptionVeryBasicSample
 
 https://github.com/ingconti/JUnitIntro
 
+https://github.com/ingconti/unittest_Baresi_ArrayList
+
 https://github.com/ingconti/FactorialTest/blob/master/README.md
 
 ### aula webex:
