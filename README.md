@@ -5,7 +5,8 @@ questo repo raccoglie i materiali delle esercitazioni tenute dall' ing. conti e 
 
 
 
-1 es: 
+##  1 es: 
+
 webex: https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=e9b2d0e8c40147d4ba5b06abd8ddf0ff
 
 
