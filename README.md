@@ -27,6 +27,14 @@ https://github.com/ingconti/FactorialTest/blob/master/README.md
 
 ##  2 es: 
 
+webex: https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/de036fb66eab4b50be8181b5a988abe3/playback
+
+
+https://github.com/ingconti/SampleJavaFx
+
+https://github.com/ingconti/JavaFXWithImagesAndText
+
+
 
 ### aula webex:
 
