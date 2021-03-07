@@ -34,9 +34,10 @@ https://github.com/ingconti/SampleJavaFx
 
 https://github.com/ingconti/JavaFXWithImagesAndText
 
-=======
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/de036fb66eab4b50be8181b5a988abe3/playback
->>>>>>> e19d1f53a06c4afdd300f66db8c36b39621e6426
+
+##  3 es: 
+
 
 
 ### aula webex:
